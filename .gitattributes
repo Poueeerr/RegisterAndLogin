@@ -1,5 +1,5 @@
 # Force GitHub to recognize .html files as Javascript
-*.txt linguist-language=Python
+*.html linguist-language=Javascript
 
 # Exclude a directory from language stats (e.g., documentation files)
 docs/* linguist-vendored
